@@ -1,0 +1,378 @@
+{
+    "country": "Perú",
+    "version": "3.0",
+    "description": "Catálogo aeroportuario peruano para GigiMET. Estructura preparada para tarjeta informativa por código OACI.",
+    "note": "Los campos con 'No disponible' deben mostrarse así si el dato no está confirmado.",
+    "fields": [
+        "name",
+        "icao",
+        "iata",
+        "city",
+        "department",
+        "elevation_ft",
+        "runway",
+        "type"
+    ],
+    "airports": {
+        "SPAS": {
+            "name": "Aeropuerto de Andahuaylas",
+            "icao": "SPAS",
+            "iata": "ANS",
+            "city": "Andahuaylas",
+            "department": "Apurímac",
+            "elevation_ft": 11300,
+            "runway": "03/21",
+            "type": "Nacional"
+        },
+        "SPAY": {
+            "name": "Aeropuerto Teniente General Gerardo Pérez Pinedo",
+            "icao": "SPAY",
+            "iata": "AYX",
+            "city": "Atalaya",
+            "department": "Ucayali",
+            "elevation_ft": 751,
+            "runway": "15/33",
+            "type": "Nacional"
+        },
+        "SPBK": {
+            "name": "Aeropuerto de Bellavista",
+            "icao": "SPBK",
+            "iata": "No disponible",
+            "city": "Bellavista",
+            "department": "San Martín",
+            "elevation_ft": "No disponible",
+            "runway": "No disponible",
+            "type": "Aeródromo"
+        },
+        "SPBL": {
+            "name": "Aeropuerto de Huallaga",
+            "icao": "SPBL",
+            "iata": "No disponible",
+            "city": "Huallaga",
+            "department": "San Martín",
+            "elevation_ft": "No disponible",
+            "runway": "No disponible",
+            "type": "Aeródromo"
+        },
+        "SPBR": {
+            "name": "Aeropuerto de Iberia",
+            "icao": "SPBR",
+            "iata": "IBP",
+            "city": "Iberia",
+            "department": "Madre de Dios",
+            "elevation_ft": "No disponible",
+            "runway": "No disponible",
+            "type": "Aeródromo"
+        },
+        "SPCL": {
+            "name": "Aeropuerto Capitán FAP David Abensur Rengifo",
+            "icao": "SPCL",
+            "iata": "PCL",
+            "city": "Pucallpa",
+            "department": "Ucayali",
+            "elevation_ft": 513,
+            "runway": "02/20",
+            "type": "Nacional"
+        },
+        "SPCP": {
+            "name": "Aeropuerto Internacional de Chinchero",
+            "icao": "SPCP",
+            "iata": "No disponible",
+            "city": "Chinchero",
+            "department": "Cusco",
+            "elevation_ft": "No disponible",
+            "runway": "No disponible",
+            "type": "Proyecto"
+        },
+        "SPEO": {
+            "name": "Aeropuerto Teniente FAP Jaime Montreuil Morales",
+            "icao": "SPEO",
+            "iata": "CHM",
+            "city": "Chimbote",
+            "department": "Áncash",
+            "elevation_ft": 69,
+            "runway": "13/31",
+            "type": "Nacional"
+        },
+        "SPGL": {
+            "name": "Aeropuerto Internacional Capitán FAP Renán Elías Olivera",
+            "icao": "SPGL",
+            "iata": "PIO",
+            "city": "Pisco",
+            "department": "Ica",
+            "elevation_ft": 39,
+            "runway": "04/22",
+            "type": "Internacional"
+        },
+        "SPGM": {
+            "name": "Aeropuerto de Tingo María",
+            "icao": "SPGM",
+            "iata": "TGI",
+            "city": "Tingo María",
+            "department": "Huánuco",
+            "elevation_ft": 2010,
+            "runway": "01/19",
+            "type": "Nacional"
+        },
+        "SPHB": {
+            "name": "Aeropuerto de Huancabamba",
+            "icao": "SPHB",
+            "iata": "No disponible",
+            "city": "Huancabamba",
+            "department": "Piura",
+            "elevation_ft": "No disponible",
+            "runway": "No disponible",
+            "type": "Aeródromo"
+        },
+        "SPHI": {
+            "name": "Aeropuerto Capitán FAP José A. Quiñones Gonzales",
+            "icao": "SPHI",
+            "iata": "CIX",
+            "city": "Chiclayo",
+            "department": "Lambayeque",
+            "elevation_ft": 97,
+            "runway": "01/19",
+            "type": "Internacional"
+        },
+        "SPHO": {
+            "name": "Aeropuerto Coronel FAP Alfredo Mendívil Duarte",
+            "icao": "SPHO",
+            "iata": "AYP",
+            "city": "Ayacucho",
+            "department": "Ayacucho",
+            "elevation_ft": 8917,
+            "runway": "02/20",
+            "type": "Nacional"
+        },
+        "SPHY": {
+            "name": "Aeropuerto Comandante FAP Germán Arias Graziani",
+            "icao": "SPHY",
+            "iata": "ATA",
+            "city": "Anta / Huaraz",
+            "department": "Áncash",
+            "elevation_ft": 9097,
+            "runway": "16/34",
+            "type": "Nacional"
+        },
+        "SPHZ": {
+            "name": "Aeropuerto Comandante FAP Germán Arias Graziani",
+            "icao": "SPHZ",
+            "iata": "ATA",
+            "city": "Anta / Huaraz",
+            "department": "Áncash",
+            "elevation_ft": 9097,
+            "runway": "16/34",
+            "type": "Nacional"
+        },
+        "SPIL": {
+            "name": "Aeropuerto de Quincemil",
+            "icao": "SPIL",
+            "iata": "No disponible",
+            "city": "Quincemil",
+            "department": "Cusco",
+            "elevation_ft": "No disponible",
+            "runway": "No disponible",
+            "type": "Aeródromo"
+        },
+        "SPIM": {
+            "name": "Centro de Control de Área Lima",
+            "icao": "SPIM",
+            "iata": "No aplica",
+            "city": "Lima",
+            "department": "Lima",
+            "elevation_ft": "No aplica",
+            "runway": "No aplica",
+            "type": "Centro de control"
+        },
+        "SPJA": {
+            "name": "Aeropuerto de Jaén / Shumba",
+            "icao": "SPJA",
+            "iata": "JAE",
+            "city": "Jaén",
+            "department": "Cajamarca",
+            "elevation_ft": 2477,
+            "runway": "16/34",
+            "type": "Nacional"
+        },
+        "SPJC": {
+            "name": "Aeropuerto Internacional Jorge Chávez",
+            "icao": "SPJC",
+            "iata": "LIM",
+            "city": "Callao",
+            "department": "Lima",
+            "elevation_ft": 113,
+            "runway": "16L/34R, 16R/34L",
+            "type": "Internacional"
+        },
+        "SPJJ": {
+            "name": "Aeropuerto Francisco Carlé",
+            "icao": "SPJJ",
+            "iata": "JAU",
+            "city": "Jauja",
+            "department": "Junín",
+            "elevation_ft": 11034,
+            "runway": "13/31",
+            "type": "Nacional"
+        },
+        "SPJL": {
+            "name": "Aeropuerto Internacional Inca Manco Cápac",
+            "icao": "SPJL",
+            "iata": "JUL",
+            "city": "Juliaca",
+            "department": "Puno",
+            "elevation_ft": 12552,
+            "runway": "12/30",
+            "type": "Internacional"
+        },
+        "SPJN": {
+            "name": "Aeropuerto de San Juan de Marcona",
+            "icao": "SPJN",
+            "iata": "SJA",
+            "city": "San Juan de Marcona",
+            "department": "Ica",
+            "elevation_ft": 160,
+            "runway": "06/24",
+            "type": "Nacional"
+        },
+        "SPLO": {
+            "name": "Aeropuerto de Ilo",
+            "icao": "SPLO",
+            "iata": "ILQ",
+            "city": "Ilo",
+            "department": "Moquegua",
+            "elevation_ft": 72,
+            "runway": "12/30",
+            "type": "Nacional"
+        },
+        "SPME": {
+            "name": "Aeropuerto Capitán FAP Pedro Canga Rodríguez",
+            "icao": "SPME",
+            "iata": "TBP",
+            "city": "Tumbes",
+            "department": "Tumbes",
+            "elevation_ft": 115,
+            "runway": "14/32",
+            "type": "Internacional"
+        },
+        "SPMS": {
+            "name": "Aeropuerto Moisés Benzaquén Rengifo",
+            "icao": "SPMS",
+            "iata": "YMS",
+            "city": "Yurimaguas",
+            "department": "Loreto",
+            "elevation_ft": 587,
+            "runway": "18/36",
+            "type": "Nacional"
+        },
+        "SPNC": {
+            "name": "Aeropuerto Alférez FAP David Figueroa Fernandini",
+            "icao": "SPNC",
+            "iata": "HUU",
+            "city": "Huánuco",
+            "department": "Huánuco",
+            "elevation_ft": 6070,
+            "runway": "07/25",
+            "type": "Nacional"
+        },
+        "SPPY": {
+            "name": "Aeropuerto de Chachapoyas",
+            "icao": "SPPY",
+            "iata": "CHH",
+            "city": "Chachapoyas",
+            "department": "Amazonas",
+            "elevation_ft": 8333,
+            "runway": "13/31",
+            "type": "Nacional"
+        },
+        "SPQT": {
+            "name": "Aeropuerto Internacional Coronel FAP Francisco Secada Vignetta",
+            "icao": "SPQT",
+            "iata": "IQT",
+            "city": "Iquitos",
+            "department": "Loreto",
+            "elevation_ft": 306,
+            "runway": "06/24",
+            "type": "Internacional"
+        },
+        "SPQU": {
+            "name": "Aeropuerto Internacional Alfredo Rodríguez Ballón",
+            "icao": "SPQU",
+            "iata": "AQP",
+            "city": "Arequipa",
+            "department": "Arequipa",
+            "elevation_ft": 8405,
+            "runway": "10/28",
+            "type": "Internacional"
+        },
+        "SPRU": {
+            "name": "Aeropuerto Capitán FAP Carlos Martínez de Pinillos",
+            "icao": "SPRU",
+            "iata": "TRU",
+            "city": "Trujillo",
+            "department": "La Libertad",
+            "elevation_ft": 106,
+            "runway": "02/20",
+            "type": "Internacional"
+        },
+        "SPST": {
+            "name": "Aeropuerto Cadete FAP Guillermo del Castillo Paredes",
+            "icao": "SPST",
+            "iata": "TPP",
+            "city": "Tarapoto",
+            "department": "San Martín",
+            "elevation_ft": 869,
+            "runway": "17/35",
+            "type": "Nacional"
+        },
+        "SPTN": {
+            "name": "Aeropuerto Coronel FAP Carlos Ciriani Santa Rosa",
+            "icao": "SPTN",
+            "iata": "TCQ",
+            "city": "Tacna",
+            "department": "Tacna",
+            "elevation_ft": 1538,
+            "runway": "02/20",
+            "type": "Internacional"
+        },
+        "SPTU": {
+            "name": "Aeropuerto Padre Aldamiz",
+            "icao": "SPTU",
+            "iata": "PEM",
+            "city": "Puerto Maldonado",
+            "department": "Madre de Dios",
+            "elevation_ft": 659,
+            "runway": "01/19",
+            "type": "Internacional"
+        },
+        "SPUR": {
+            "name": "Aeropuerto Capitán FAP Guillermo Concha Iberico",
+            "icao": "SPUR",
+            "iata": "PIU",
+            "city": "Piura",
+            "department": "Piura",
+            "elevation_ft": 174,
+            "runway": "01/19",
+            "type": "Internacional"
+        },
+        "SPYL": {
+            "name": "Aeropuerto Capitán FAP Víctor Montes Arias",
+            "icao": "SPYL",
+            "iata": "TYL",
+            "city": "Talara",
+            "department": "Piura",
+            "elevation_ft": 282,
+            "runway": "17/35",
+            "type": "Nacional"
+        },
+        "SPZO": {
+            "name": "Aeropuerto Internacional Alejandro Velasco Astete",
+            "icao": "SPZO",
+            "iata": "CUZ",
+            "city": "Cusco",
+            "department": "Cusco",
+            "elevation_ft": 10860,
+            "runway": "10/28",
+            "type": "Internacional"
+        }
+    }
+}
